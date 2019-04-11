@@ -1,0 +1,5 @@
+# Add to crontab: (/var/spool/crontab/{USER})
+# Also chmod u+x {/path/to/repo/vpn_switcher.py}
+
+
+@daily/weekly/monthly {/path/to/repo/vpn_switcher.py}
